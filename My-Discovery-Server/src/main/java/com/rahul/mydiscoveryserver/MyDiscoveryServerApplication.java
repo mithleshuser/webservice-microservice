@@ -10,6 +10,6 @@ public class MyDiscoveryServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyDiscoveryServerApplication.class, args);
-	}
+ System.out.print("hekko");	}
 
 }
